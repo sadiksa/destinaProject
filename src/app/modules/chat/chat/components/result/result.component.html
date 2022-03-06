@@ -1,0 +1,8 @@
+<p>{{organizationGroup?.DataName}}</p>
+<p>{{organizationGroup?.DataDescription}}</p>
+<br>
+<ol>
+    <li *ngFor="let organization of organizationGroup?.Datas">
+        {{organization | json}}
+    </li>
+</ol>

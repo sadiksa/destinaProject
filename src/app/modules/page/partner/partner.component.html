@@ -1,0 +1,26 @@
+<h1 class="fw-bold m-3">Takımımız</h1>
+
+<div class="row" *ngFor="let label of partners">
+    <div class="col">
+        <div class="row">
+            <div class="col">
+                <h3 class="fw-bold m-3">{{label.label}}</h3>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-4 col-lg-6" *ngFor="let person of label.partners">
+                <div class="d-flex justify-content-center align-items-center flex-column border border-1 border-light p-3 m-3">
+                  <img class="rounded-circle profile-image" src="{{person.photoPath}}" alt="{{person.name}}">
+                  <p class="fs-4 fw-light mt-3 mb-1 text-center">{{person.name}}
+                    <a *ngIf="person.linkedin!=''" class="ms-2" href="{{person.linkedin}}" target="_blank">
+                      <img src="./../../../../assets/icons/linkedin.svg" alt="{{person.name}}">
+                    </a>
+                  </p>
+                  <p class="fs-6 fw-bold">{{person.title}}</p>
+                </div>
+              </div>
+        </div>
+    </div>
+  
+</div>

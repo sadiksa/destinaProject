@@ -1,0 +1,126 @@
+<div class="chatContainer d-flex flex-column">
+  <div class="chatHeader d-flex justify-content-between py-2 px-3 border-bottom border-1 border-destina">
+    <div class="userContainer d-flex justify-content-center align-items-center">
+      <div class="userPhotoContainer">
+        <img class="rounded-circle userPhoto" src="./../../../../assets/photos/destina.jpeg" alt="">
+      </div>
+      <div class="userInfo d-flex flex-column mx-3">
+        <span class="d-flex align-items-center fw-bold">Destina</span>
+        <span class="d-flex align-items-center fw-light text-secondary">Aktif</span>
+      </div>
+    </div>
+    <div class="topRightContainer d-flex justify-content-between align-items-center">
+      <!-- <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
+        <mat-icon>more_vert</mat-icon>
+      </button> -->
+      <button mat-icon-button aria-label="Close" (click)="closeDialog()">
+        <mat-icon>close</mat-icon>
+      </button>
+
+    </div>
+  </div>
+  <div class="chatFlow flex-grow-1 overflow-scroll p-3 border-bottom border-1 border-destina" id="chatFlow" #chatFlow>
+    <div class="oldMessagesContainer">
+      <div *ngFor="let message of chat">
+        <div class="row" *ngIf="message.Question">
+          <div class="col d-flex justify-content-start align-items-end">
+            <img class="rounded-circle userPhotoInner" src="./../../../../assets/photos/destina.jpeg" alt="">
+            <div class="message bg-white  ms-2 p-3 border border-1 border-destina">{{message.Question?.Text}}</div>
+          </div>
+        </div>
+        <div class="row" *ngIf="message.Answers">
+          <div class="col answers d-flex justify-content-end align-items-center  py-3 ">
+            <button class="answer border border-1 border-answer-destina ms-3 text-wrap" mat-button
+              *ngFor="let answer of message.Answers" (click)="getValueAndNextQuestion(message, answer)"
+              [disabled]="!answer.Active"
+              [ngClass]="answer.Active ? 'bg-white text-destina fw-bold' : 'bg-destina text-white fw-light'">
+              {{answer.Text}}
+            </button>
+          </div>
+        </div>
+
+
+
+      </div>
+
+      <ng-container *ngIf="organizationOpen$ | async">
+        <div class="row" *ngIf="organizationChat.name">
+          <div class="col d-flex justify-content-start align-items-end">
+            <img class="rounded-circle userPhotoInner" src="./../../../../assets/photos/destina.jpeg" alt="">
+            <div class="message bg-white  ms-2 p-3 border border-1 border-destina">
+              {{organizationChat.name}}
+            </div>
+          </div>
+        </div>
+        <div class="row" *ngIf="organizationChat.description">
+          <div class="col d-flex justify-content-start align-items-end">
+            <img class="rounded-circle userPhotoInner" src="./../../../../assets/photos/destina.jpeg" alt="">
+            <div class="message bg-white  ms-2 p-3 border border-1 border-destina">
+              {{organizationChat.description}}
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col answers d-flex justify-content-end align-items-center  py-3 flex-wrap">
+            <button class=" answer border border-1 border-answer-destina ms-3 text-wrap" mat-button
+              *ngFor="let answer of organizationChat.answers; let i = index" (click)="getOrganizationInfoByIndex(i)"
+              [disabled]="!answer.active"
+              [ngClass]="answer.active ? 'bg-white text-destina fw-bold' : 'bg-destina text-white fw-light'">
+              {{answer.text}}
+            </button>
+          </div>
+        </div>
+
+      </ng-container>
+
+      <ng-container *ngIf="blogAndRefreshOpen$ | async">
+        <div class="row">
+          <div class="col answers d-flex justify-content-end align-items-center  py-3 flex-wrap">
+            <a class=" answer border border-1 border-answer-destina ms-3 text-wrap" mat-button routerLink="/pages/blog"
+              [ngClass]="true ? 'bg-white text-destina fw-bold' : 'bg-destina text-white fw-light'">
+            </a>
+            <button class=" answer border border-1 border-answer-destina ms-3 text-wrap" mat-button (click)="{}"
+              [ngClass]="true ? 'bg-white text-destina fw-bold' : 'bg-destina text-white fw-light'">
+              Refresh
+            </button>
+          </div>
+        </div>
+      </ng-container>
+      <ng-container *ngIf="appFinished$ | async">
+        <div class="row">
+          <div class="col answers d-flex justify-content-end align-items-center  py-3 flex-wrap">
+            finished
+          </div>
+        </div>
+      </ng-container>
+    </div>
+
+    <div id="scroll" #scroll></div>
+
+
+  </div>
+  <div class="chatFooter p-3 bg-white" (click)="chatInput.focus()">
+    <div class="input-group">
+      <input type="text" class=" chatInput form-control" placeholder="Cevap" aria-label="Cevapla" #chatInput>
+      <button mat-icon-button aria-label="Send" (click)="$event.stopPropagation(); send()">
+        <mat-icon>send</mat-icon>
+      </button>
+    </div>
+  </div>
+</div>
+
+
+<!-- <mat-menu #menu="matMenu">
+  <button mat-menu-item>
+    <mat-icon>dialpad</mat-icon>
+    <span>Redial</span>
+  </button>
+  <button mat-menu-item disabled>
+    <mat-icon>voicemail</mat-icon>
+    <span>Check voice mail</span>
+  </button>
+  <button mat-menu-item>
+    <mat-icon>notifications_off</mat-icon>
+    <span>Disable alerts</span>
+  </button>
+</mat-menu> -->

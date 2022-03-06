@@ -1,1 +1,69 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --destina: #58D3C8;
+  --destinaHover: #3b8f88;
+  --seperatorGrey: #dee2e6;
+  --menuGrey: #212529;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+p {
+  /* text-indent: 50px; */
+}
+
+.btn-destina {
+  color: #fff !important;
+  background-color: var(--destina) !important;
+  border-color: var(--destina) !important;
+}
+
+.btn-destina:hover {
+  background-color: var(--destinaHover) !important;
+  border-color: var(--destinaHover) !important;
+}
+
+.btn-light-destina {
+  color: var(--destina) !important;
+  background-color: white !important;
+  border-color: var(--destina) !important;
+}
+
+.btn-light-destina:hover {
+  color: #fff !important;
+  background-color: var(--destinaHover) !important;
+  border-color: var(--destinaHover) !important;
+}
+
+.nav-link-destina {
+  color: var(--menuGrey) !important;
+}
+
+.nav-link-destina.active {
+  color: var(--destina);
+  background-color: transparent !important;
+  border-radius: 0px !important;
+  border-bottom: 2px solid var(--seperatorGrey) !important;
+}
+
+/* a{
+    color: var(--destina) !important;
+}
+a:hover{
+    color: var(--destinaHover) !important;
+} */
+.text-destina {
+  color: var(--destina) !important;
+}
+
+.img-48 {
+  width: 48px;
+  height: 48px;
+}

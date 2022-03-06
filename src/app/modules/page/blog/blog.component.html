@@ -1,0 +1,18 @@
+<h1 class="fw-bold m-3">Blog Yazıları</h1>
+
+<div class="row">
+    <div class="col-md-6 col-lg-4" *ngFor="let blog of contents">
+        <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="col p-4 d-flex flex-column position-static">
+              <h3 class="mb-0">{{blog.title}}</h3>
+              <strong class="d-inline-block mb-2 text-destina text-end">{{blog.author}}</strong>
+              <div class="mb-1 text-muted">{{blog.date|date}}</div>
+              <div class="card-text mb-auto">{{blog.shortContent.slice(0,150)}}...</div>
+              <a [routerLink]="'/pages/content/'+blog.id"class="stretched-link">Oku</a>
+            </div>
+          </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,31 @@
+<div class="px-4 pt-1 my-2 text-center">
+  <div class="d-flex-justify-content-center align-items-center">
+    <img src="./../../../../assets/photos/destina.jpeg" class="rounded-circle" style="width: 200px; height: 200px;"
+      alt="Destina">
+  </div>
+  <h1 class="display-4 fw-bold">Merhaba ben Destina!</h1>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead mb-4">Size destek olmak için buradayım. Benimle sohbet ederek ya da blogumdaki yazıları okuyarak
+      şiddete karşı çözüme ulaşabilirsiniz.</p>
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+      <button type="button" (click)="openDialog()" class="btn btn-destina btn-lg px-4 me-sm-3">Sohbeti Aç</button>
+      <button type="button" routerLink="/pages/blog" class="btn btn-outline-secondary btn-lg px-4">Blog'a Git</button>
+    </div>
+  </div>
+
+</div>
+
+<div class="bottom-right">
+  <ng-container *ngIf="chatOpened; else button">
+    <!-- <app-chat (closeEvent)="close($event)"></app-chat> -->
+  </ng-container>
+  <ng-template #button>
+    <div class="speechText bg-white ms-2 p-3 border border-1 border-destina"
+      [@enabledStateChange]="trueFalse? 'default': 'disabled'">Konuşmaya başla!</div>
+
+    <button class="btn btn-destina p-2 rounded-circle" mat-button (click)="openDialog()">
+      <img src="./../../../../assets/photos/destina.jpeg" class="rounded-circle" style="width: 100px; height: 100px;"
+        alt="Destina">
+    </button>
+  </ng-template>
+</div>

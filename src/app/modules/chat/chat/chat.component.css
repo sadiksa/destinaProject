@@ -1,0 +1,63 @@
+.chatContainer {
+  background: #F9F9FB;
+  box-shadow: 0px 10.6784px 16.0176px -3.20351px rgba(0, 0, 0, 0.1), 0px 4.27135px 6.40703px -2.13568px rgba(0, 0, 0, 0.05), 0px 0px 0px 1.06784px rgba(0, 0, 0, 0.05);
+  border-radius: 25px;
+  height: 80%;
+}
+
+.userPhoto {
+  max-height: 3rem;
+}
+.userPhotoInner{
+  max-height: 2rem;
+  transform: translateY(-50%);
+
+}
+
+.chatFlow {
+  max-height: 400px;
+}
+
+.answers {
+  /* width: fit-content; */
+}
+
+.answer {
+  max-width: 75%;
+  border-radius: 0.75rem;
+  box-shadow:  0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -2px rgba(0, 0, 0, 0.05), 0px 0px 0px 1px rgba(0, 0, 0, 0.05);
+}
+
+.message {
+  max-width: 75%;
+  border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.chatInput {
+  border: none !important;
+}
+
+.chatFooter {
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.border-destina {
+  border-color: #E3E7EA !important;
+}
+
+.text-destina {
+  color: #58D3C8 !important;
+}
+
+.bg-destina {
+  background-color: #58D3C8 !important;
+}
+
+.border-answer-destina {
+  border-color: #58D3C8 !important;
+}
+::ng-deep  mat-dialog-container {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}

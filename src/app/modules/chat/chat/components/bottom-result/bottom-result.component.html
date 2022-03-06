@@ -1,0 +1,145 @@
+<div class="row pt-3">
+  <div class="col">
+    <span class="fs-3 p-2  fw-bold">{{organization.DataName}}</span>
+  </div>
+</div>
+<div class="row px-3 py-3">
+  <div class="col">
+    <span>{{organization.DataDescription}}</span>
+  </div>
+</div>
+<div class="row">
+  <div class="col" *ngIf="organization.Address1">
+    <span class="fs-6 p-2  fw-bold">Adresler</span>
+  </div>
+</div>
+<div class="row px-3 py-3">
+  
+  <div class="col   p-1" *ngIf="organization.Address1">
+    <a target="_blank" [href]="'https://www.google.com/maps/search/?api=1&query='+encode(organization.Address1)">
+      <img class="img-48" src="./../../../../../../assets/icons/map.svg" alt="">
+      <span class="ms-2">{{organization.Address1}}</span>
+    </a>
+
+  </div>
+  <div class="col   p-1" *ngIf="organization.Address2">
+    <a target="_blank" [href]="'https://www.google.com/maps/search/?api=1&query='+encode(organization.Address2)">
+      <img class="img-48" src="./../../../../../../assets/icons/map.svg" alt="">
+      <span class="ms-2">{{organization.Address1}}</span>
+    </a>
+
+  </div>
+  <div class="col   p-1" *ngIf="organization.Address3">
+    <a target="_blank" [href]="'https://www.google.com/maps/search/?api=1&query='+encode(organization.Address3)">
+      <img class="img-48" src="./../../../../../../assets/icons/map.svg" alt="">
+      <span class="ms-2">{{organization.Address1}}</span>
+    </a>
+
+  </div>
+  <div class="col   p-1" *ngIf="organization.Address4">
+    <a target="_blank" [href]="'https://www.google.com/maps/search/?api=1&query='+encode(organization.Address4)">
+      <img class="img-48" src="./../../../../../../assets/icons/map.svg" alt="">
+      <span class="ms-2">{{organization.Address1}}</span>
+    </a>
+
+  </div>
+  <div class="col   p-1" *ngIf="organization.Address5">
+    <a target="_blank" [href]="'https://www.google.com/maps/search/?api=1&query='+encode(organization.Address5)">
+      <img class="img-48" src="./../../../../../../assets/icons/map.svg" alt="">
+      <span class="ms-2">{{organization.Address1}}</span>
+    </a>
+
+  </div>
+</div>
+<div class="row">
+  <div class="col" *ngIf="organization.Phone1">
+    <span class="fs-6 p-2  fw-bold">Telefonlar</span>
+  </div>
+</div>
+<div class="row px-3 py-3">
+  
+  <div class="col">
+    
+    <a *ngIf="organization.Phone1" class="btn btn-destina rounded-pill ms-3 mb-1 " href="tel:{{organization.Phone1}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/telephone.svg" alt="">
+        <span class="ms-2">{{organization.Phone1}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Phone2" class="btn btn-destina rounded-pill ms-3 mb-1 " href="tel:{{organization.Phone2}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/telephone.svg" alt="">
+        <span class="ms-2">{{organization.Phone2}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Phone3" class="btn btn-destina rounded-pill ms-3 mb-1 " href="tel:{{organization.Phone3}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/telephone.svg" alt="">
+        <span class="ms-2">{{organization.Phone3}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Phone4" class="btn btn-destina rounded-pill ms-3 mb-1 " href="tel:{{organization.Phone4}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/telephone.svg" alt="">
+        <span class="ms-2">{{organization.Phone4}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Phone5" class="btn btn-destina rounded-pill ms-3 mb-1 " href="tel:{{organization.Phone5}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/telephone.svg" alt="">
+        <span class="ms-2">{{organization.Phone5}}</span>
+      </div>
+
+    </a>
+  </div>
+</div>
+<div class="row">
+  <div class="col" *ngIf="organization.Web1">
+    <span class="fs-6 p-2  fw-bold">Web Siteleri</span>
+  </div>
+</div>
+
+<div class="row px-3 py-3" >
+  
+  <div class="col">
+    <a *ngIf="organization.Web1" class="btn btn-light-destina  rounded-pill ms-3 mb-1 " href="tel:{{organization.Web1}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/cursor.svg" alt="">
+        <span class="ms-2">{{organization.Web1}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Web2" class="btn btn-light-destina  rounded-pill ms-3 mb-1 " href="tel:{{organization.Web2}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/cursor.svg" alt="">
+        <span class="ms-2">{{organization.Web2}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Web3" class="btn btn-light-destina  rounded-pill ms-3 mb-1 " href="tel:{{organization.Web3}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/cursor.svg" alt="">
+        <span class="ms-2">{{organization.Web3}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Web4" class="btn btn-light-destina  rounded-pill ms-3 mb-1 " href="tel:{{organization.Web4}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/cursor.svg" alt="">
+        <span class="ms-2">{{organization.Web4}}</span>
+      </div>
+
+    </a>
+    <a *ngIf="organization.Web5" class="btn btn-light-destina  rounded-pill ms-3 mb-1 " href="tel:{{organization.Web5}}">
+      <div class="d-flex justify-content-center align-items-center">
+        <img src="./../../../../../../assets/icons/cursor.svg" alt="">
+        <span class="ms-2">{{organization.Web5}}</span>
+      </div>
+
+    </a>
+  </div>
+</div>

@@ -1,0 +1,2370 @@
+﻿{
+    "Sorular": [
+        {
+            "Id": "1",
+            "Text": "Merhabalar ben Destina, bu süreçte size yardımcı olabilmek için İkonion Hukuk ve Kariyer Derneği Legaltech çalışma grubu tarafından yaratıldım. Size yardım edebilmem için soracağım soruları cevaplayabilir misiniz?"
+        },
+        {
+            "Id": "2",
+            "Text": "Hangi şehirde yaşıyorsunuz?"
+        },
+        {
+            "Id": "3",
+            "Text": "Yaratıcılarım beni şimdilik Konya ve İzmir sınırları içinde hizmet verebilir şekilde programladılar. Diğer şehirlerde ve Türkiye sınırları dışında sizin gibi şiddete uğrayan kişilere yardım edebilmeyi dört gözle bekliyorum..."
+        },
+        {
+            "Id": "4",
+            "Text": "Şiddet size karşı mı gerçekleştirildi ?"
+        },
+        {
+            "Id": "5",
+            "Text": "Maruz kaldığınız bu durum için çok üzgünüm bu sebeple size yardım etmek için yaratıldım ve buradayım. Size yardım edebilmem için sorularımı dikkatli bir şekilde okuyup cevaplandırmanızı istiyorum."
+        },
+        {
+            "Id": "6",
+            "Text": "Şiddet velayetiniz altında bulunan çocuğunuza karşı mı gerçekleştirildi?"
+        },
+        {
+            "Id": "7",
+            "Text": "Çocuğunuzun maruz kalmış olduğu bu durum için çok üzgünüm bu sebeple size yardım etmek için yaratıldım ve buradayım. Size yardım edebilmem için sorularımı dikkatli bir şekilde okuyup cevaplandırmanızı istiyorum."
+        },
+        {
+            "Id": "8",
+            "Text": "Şiddet her ikinize karşı mı gerçekleştirildi?"
+        },
+        {
+            "Id": "9",
+            "Text": "Şiddete uğrayan kişinin benden alacağı desteği genel anlamda öğrenmek için blog sayfasını ziyaret edebilirsiniz, şiddete uğrayan kişinin benimle iletişime geçmesini sağlayabilirsiniz veya şiddete uğrayan kişi sizmiş gibi sorularımı baştan cevaplayabilirsiniz."
+        },
+        {
+            "Id": "10",
+            "Text": "Uğramış olduğunuz bu şiddet dolayısıyla fiziksel anlamda acı duydunuz mu?"
+        },
+        {
+            "Id": "11",
+            "Text": "Soracağım soruları evet yada hayır seçeneklerini seçerek cevaplandırın lütfen!"
+        },
+        {
+            "Id": "12",
+            "Text": "Gördüğünüz şiddetin psikolojik şiddet olduğunu düşünüyor musunuz?"
+        },
+        {
+            "Id": "13",
+            "Text": "Soracağım soruları evet yada hayır seçeneklerini seçerek cevaplandırın lütfen!"
+        },
+        {
+            "Id": "14",
+            "Text": "Yaratıcılarım beni şimdilik fiziksel, psikolojik ve cinsel şiddet ile mücadele edebilmem için oluşturdular. Diğer tip şiddetler ile de mücadele edebilmeyi dört gözle bekliyor olacağım..."
+        },
+        {
+            "Id": "15",
+            "Text": "Çocuğunuzun fiziksel anlamda zarar gördüğünü düşünüyor musunuz?"
+        },
+        {
+            "Id": "16",
+            "Text": "Soracağım soruları evet yada hayır seçeneklerini seçerek cevaplandırın lütfen!"
+        },
+        {
+            "Id": "17",
+            "Text": "Peki çocuğunuzun maruz kalmış olduğu şiddeti psikolojik şiddet olarak niteleyebilir misiniz?"
+        },
+        {
+            "Id": "18",
+            "Text": "Soracağım soruları evet yada hayır seçeneklerini seçerek cevaplandırın lütfen!"
+        },
+        {
+            "Id": "19",
+            "Text": "Şiddet size herhangi bir cisim kullanılmadan mı gerçekleştiriyor? (tekme, tokat, yumruk, itme, sarsma, saçınızı çekme, sıkıştırma, Boğaz sıkmak  vb... )"
+        },
+        {
+            "Id": "20",
+            "Text": "Şiddet size herhangi bir cisim kullanılarak mı gerçekleştiriyor ? (kemer, sopa, silah, bıçak, ateş vb herhangi bir cisim....)"
+        },
+        {
+            "Id": "21",
+            "Text": "Size şiddet uygulayarak özellikle fiziksel şiddet dışarı çıkmanızı engelleyecek şekilde alıkoyuyor mu ?"
+        },
+        {
+            "Id": "22",
+            "Text": "Temel ihtiyaçlarınızı gidermenizi engelliyor mu? (beslenme, tuvalet ihtiyacı vb.)"
+        },
+        {
+            "Id": "23",
+            "Text": "Tıbbi bakım almanızı engelliyor mu? (doktora gitmek, ilaç ve tedavi almak vb.)"
+        },
+        {
+            "Id": "24",
+            "Text": "Sizi kendisi ve bir üçüncü kişi ile cinsel ilişki yaşamaya fiziksel olarak zorluyor mu? (saçınızı çekerek, boğazınızı sıkarak, döverek vs. )"
+        },
+        {
+            "Id": "25",
+            "Text": "Sizi zararlı ve bağımlılık yapıcı bir madde kullanmaya zorluyor mu ? (alkol, uyuşturucu vb.)"
+        },
+        {
+            "Id": "26",
+            "Text": "Hamilelik sürecinizde çocuğunuza zarar verecek ve/ veya onun düşmesine sebep olabilecek bir davranışı oldu mu ve/ veya bu davranışları devam ediyor mu?"
+        },
+        {
+            "Id": "27",
+            "Text": "Sormuş olduğum sorular arasında eğer bir tane bile olumlu cevabınız yoksa tekrar soracağım soruları evet veya hayır cevapları ile cevaplandırabilir misiniz?"
+        },
+        {
+            "Id": "28",
+            "Text": "Sizi ısırarak şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "29",
+            "Text": "Sizi ayaklarıyla çiğneyerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "30",
+            "Text": "Sizi yerde sürükleyerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "31",
+            "Text": "Sizi duvara veya sert bir yere çarparak şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "32",
+            "Text": "Sizin üzerinizde sigara söndürerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "33",
+            "Text": "Size zincir veya zincir gibi sert bir cisimle şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "34",
+            "Text": "Kaynar su veya bunun gibi size zarar verecek sıvı bir madde ile şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "35",
+            "Text": "Vazo, bardak, kül tablası gibi size zarar verecek bir cismi size fırlatarak şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "36",
+            "Text": "Sizi bir odada, bodrum yada garaj gibi karanlık bir mekanda dışarı çıkmamanız için kilitliyor mu?"
+        },
+        {
+            "Id": "37",
+            "Text": "Sizi dışarı çıkmamanız için ip, zincir, kelepçe yada buna benzer bir cisim ile bağlıyor mı?"
+        },
+        {
+            "Id": "38",
+            "Text": "Sizi araba veya benzeri bir mekanda dışarı çıkamamanız için alıkoyuyormu?"
+        },
+        {
+            "Id": "39",
+            "Text": "Sizin kişisel hijyen almanızı engelliyor mu? (duş, vb)"
+        },
+        {
+            "Id": "40",
+            "Text": "Sizin uyumanızı engelleyici bir davranışta bulunuyor mu? (Rahatsız bir zeminde yatmaya zorlama vb...)"
+        },
+        {
+            "Id": "41",
+            "Text": "Sağlıksız bir ortamda (soğuk ve kirli) yaşamaya zorluyor mu?"
+        },
+        {
+            "Id": "42",
+            "Text": "Adet döngüleriniz esnasında hijyenik kadın pedine ulaşmanızı engelliyor mu?"
+        },
+        {
+            "Id": "43",
+            "Text": "Sizi oral ve anal sex yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "44",
+            "Text": "Hamilelik döneminiz de sizi cinsel birlikteliğe zorluyor mu?"
+        },
+        {
+            "Id": "45",
+            "Text": "3. bir kişi ile sizi cinsel birlikteliğe zorluyor mu?"
+        },
+        {
+            "Id": "46",
+            "Text": "Rızanızla başlayan cinsel ilişki esnasında acı duyduğunuz için durmak istemenizi dikkate almayarak cinsel ilişkiyi zorla devam ettiriyor mu?"
+        },
+        {
+            "Id": "47",
+            "Text": "Hamilelik süreciniz de sizi zararlı madde kullanmaya zorluyor mu?"
+        },
+        {
+            "Id": "48",
+            "Text": "Hamilelik süreciniz de sizin tıbbi destek almanızı engelliyor mu?"
+        },
+        {
+            "Id": "49",
+            "Text": "Hamilelik süreciniz de sizin ve çocuğunuzun sağlığını tehlikeye atacak şekilde ağır işler yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "50",
+            "Text": "Size fiziksel anlamda şiddet uygulayarak istemediğiniz birisi ile evlenmeye zorluyor mu?"
+        },
+        {
+            "Id": "51",
+            "Text": "Sizi çözüm yollarımıza yönlendiriyorum."
+        },
+        {
+            "Id": "52",
+            "Text": "Cevaplarınızın olumsuz olmasına rağmen halen fiziksel şiddete uğradığınızı düşünüyor musunuz?"
+        },
+        {
+            "Id": "53",
+            "Text": "Uğramış olduğunuz şiddeti kısa ve öz bir biçimde bana yazarak anlatır mısınız?"
+        },
+        {
+            "Id": "54",
+            "Text": "Size zarar vereceği ya da sizi öldüreceği yönünde tehdit ediyor mu?"
+        },
+        {
+            "Id": "55",
+            "Text": "Sizin yakınlarınıza ve kendine zarar vereceği yönünde tehdit ederek sizi istemediğiniz şeyleri yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "56",
+            "Text": "Terk etmeniz veya boşanmanız durumunda çocuklarınızın velayeti ve maddi destek sağlamayacağı (nafaka) konusunda sizi tehdit ediyor mu?"
+        },
+        {
+            "Id": "57",
+            "Text": "Bulunduğunuz ortamların (ev, iş vb) etrafında size görünerek dolaşıp sizin üzerinizde bir baskı oluşturuyor mu?"
+        },
+        {
+            "Id": "58",
+            "Text": "Sinirlerine hakim olamayarak sizin gözünüzü korkutmak için bağırarak etrafa zarar veriyor mu? (duvara yumruk atmak, telefonu kırmak vb..)"
+        },
+        {
+            "Id": "59",
+            "Text": "Sizi tehdit ederek kendisi veya bir üçüncü kişi ile cinsel birlikteliğe zorluyor mu?"
+        },
+        {
+            "Id": "60",
+            "Text": "Sizi tehdit ederek cinsel ilişkide istemediğiniz bir şey yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "61",
+            "Text": "Sizi yakından veya uzaktan iletişim araçlarını kullanarak taciz ediyor mu?"
+        },
+        {
+            "Id": "62",
+            "Text": "Sormuş olduğum sorular arasında eğer bir tane bile olumlu cevabınız yoksa tekrar soracağım soruları evet veya hayır cevapları ile cevaplandırabilir misiniz?"
+        },
+        {
+            "Id": "63",
+            "Text": "Sizi korkutacak bir biçimde sizinde içerisinde bulunduğunuz aracı kontrolsüz bir biçimde kullanıyor mı?"
+        },
+        {
+            "Id": "64",
+            "Text": "Size zarar verecek bir biçimde içinde bulunduğunuz ev, araba gibi şeyleri yakmak şeklinde tehditte bulunuyor mu?"
+        },
+        {
+            "Id": "65",
+            "Text": "Ev, araba gibi sizin için maddi değer olan şeyleri yakmak, kurmak, yıkmak gibi zarar verici eylemlerle sizi tehdit ediyor mu?"
+        },
+        {
+            "Id": "66",
+            "Text": "Sizi aileniz, arkadaşlarınız ve komşularınızla konuşmanızı ve iletişim kurmanızı engelliyor mu?"
+        },
+        {
+            "Id": "67",
+            "Text": "Sizi dışarı çıktığınızda size zarar vereceği şeklinde tehdit ediyor mu?"
+        },
+        {
+            "Id": "68",
+            "Text": "Sizi aileniz ve arkadaşlarınızla iletişim kurduğunuzda zarar vereceği şeklinde tehdit ediyor mu?"
+        },
+        {
+            "Id": "69",
+            "Text": "Sizin yanınıza gelerek sözlü rahatsız edici veya cinsel içerikli söylemlerde bulunuyor mu?"
+        },
+        {
+            "Id": "70",
+            "Text": "İletişim araçları vasıtasıyla (sms, telefon araması, sosyal medya uygulamaları vb..) sözlü veya cinsel içerikli söylemlerde bulunuyor mu?"
+        },
+        {
+            "Id": "71",
+            "Text": "Sizi tehdit ederek istemediğiniz birisi ile evlenmeye zorluyor mu?"
+        },
+        {
+            "Id": "72",
+            "Text": "Size zarar vereceği yönünde tehdit ederek size ait özel verileri (fotoğraf, video veya sesli doküman) kendisi veya bir üçüncü kişiyle paylaşmaya zorluyor mu?"
+        },
+        {
+            "Id": "73",
+            "Text": "Size zarar vereceği yönünde tehdit ederek size ait özel verileri (fotoğraf, video veya sesli doküman) sosyal medya hesabında üçüncü kişilere açık bir şekilde paylaşıyor mu yada sizin paylaşmanıza zorluyor mu?"
+        },
+        {
+            "Id": "74",
+            "Text": " Size ait ait özel verileri (fotoğraf, video veya sesli döküman) paylaşacağı yönünde tehdit ederek istemediğiniz şeyleri yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "75",
+            "Text": "Sizi çözüm yollarımıza yönlendiriyorum."
+        },
+        {
+            "Id": "76",
+            "Text": "Cevaplarınızın olumsuz olmasına rağmen halen psikolojik şiddete uğradığınızı düşünüyor musunuz?"
+        },
+        {
+            "Id": "77",
+            "Text": "Uğramış olduğunuz şiddeti kısa ve öz bir biçimde bana yazarak anlatır mısınız?"
+        },
+        {
+            "Id": "78",
+            "Text": "Şiddet çocuğunuza herhangi bir cisim kullanmadan mı gerçekleştiriliyor? (tekme, tokat, yumruk, itme, sarsma, saç çekme, sıkıştırma, boğaz sıkmak, kulak çekmek, çimdikleme  vb... )"
+        },
+        {
+            "Id": "79",
+            "Text": "Şiddet çocuğunuza karşı herhangi bir cisim kullanılarak mı gerçekleştiriliyor ? (kemer, sopa, silah, bıçak, terlik, ateş vb herhangi bir cisim....)"
+        },
+        {
+            "Id": "80",
+            "Text": "Çocuğunuzun, dışarı çıkmasını engelleyecek şekilde alıkoyuyor mu ?"
+        },
+        {
+            "Id": "81",
+            "Text": "Çocuğunuzun temel ihtiyaçlarını gidermesini engelliyor mu? (beslenme, tuvalet ihtiyacı vb.)"
+        },
+        {
+            "Id": "82",
+            "Text": "Çocuğunuzun tıbbi bakım almasını engelliyor mu? (doktora gitmek, ilaç ve tedavi almak vb.)"
+        },
+        {
+            "Id": "83",
+            "Text": "Çocuğunuzu cinsel ilişki yaşamaya fiziksel olarak zorluyor mu? (Saçını çekerek, boğazını sıkarak, döverek vs.)"
+        },
+        {
+            "Id": "84",
+            "Text": "Çocuğunuza cinsel tacizde bulunuyor mu?"
+        },
+        {
+            "Id": "85",
+            "Text": "Çocuğunuzu zararlı ve bağımlılık yapıcı bir madde kullanmaya zorluyor mu ? (alkol, uyuşturucu vb.)"
+        },
+        {
+            "Id": "86",
+            "Text": "Çocuğunuza fiziksel şiddet uygulayarak bunun baskısı ile yasal olmayan işler yaptırıyor mu? (Fuhuş, torbacılık, hırsızlık ....vb..)"
+        },
+        {
+            "Id": "87",
+            "Text": "Çocuğunuza fiziksel şiddet uygulayarak kendisi ile veya istemediği bir 3. kişi ile evlenmeye zorluyor mu?"
+        },
+        {
+            "Id": "88",
+            "Text": "Sormuş olduğum sorular arasında eğer bir tane bile olumlu cevabınız yoksa tekrar soracağım soruları evet veya hayır cevapları ile cevaplandırabilir misiniz?"
+        },
+        {
+            "Id": "89",
+            "Text": "Çocuğunuzun kulağını çekerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "90",
+            "Text": "Çocuğunuza ayaklarıyla çiğneyerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "91",
+            "Text": "Çocuğunuzu yerde sürükleyerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "92",
+            "Text": "Çocuğunuzu duvara veya sert bir yere çarparak şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "93",
+            "Text": "Çocuğunuzun üzerinizde sigara söndürerek şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "94",
+            "Text": "Çocuğunuza zincir veya zincir gibi sert bir cisimle şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "95",
+            "Text": "Çocuğunuza kaynar su veya bunun gibi size zarar verecek sıvı bir madde ile şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "96",
+            "Text": "Çocuğunuza vazo, bardak, kül tablası gibi size zarar verecek bir cismi size fırlatarak şiddet uyguluyor mu?"
+        },
+        {
+            "Id": "97",
+            "Text": "Çocuğunuzu bodrum, kömürlük gibi karanlık bir odada dışarı çıkmaması için kitliyor mu?"
+        },
+        {
+            "Id": "98",
+            "Text": "Çocuğunuzu ip, zincir, kelepçe yada buna benzer bir cisim ile bağlıyor mu?"
+        },
+        {
+            "Id": "99",
+            "Text": "Çocuğunuzu araba veya benzeri bir mekanda dışarı çıkamaması için alıkoyuyor mu?"
+        },
+        {
+            "Id": "100",
+            "Text": "Çocuğunuzun kişisel bakımını almasını engelliyor mu? (duş vb...)"
+        },
+        {
+            "Id": "101",
+            "Text": "Çocuğunuzun uyuması engelleyici bir davranışta bulunuyor mu? (rahatsız bir zeminde yatmaya zorlama vb...)"
+        },
+        {
+            "Id": "102",
+            "Text": "Çocuğunuzu sağlıksız bir ortamda (soğuk ve kirli) yaşamaya zorluyor mu?"
+        },
+        {
+            "Id": "103",
+            "Text": "Ergenlik dönemindeki kız çocuğunuzun sütyen takmasına engel oluyor mu?"
+        },
+        {
+            "Id": "104",
+            "Text": "Ergenlik dönemindeki kız çocuğunuzun adet döneminde hijyenik pedlere ulaşmasını engelliyor mu?"
+        },
+        {
+            "Id": "105",
+            "Text": "Çocuğunuzu oral ve anal sex yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "106",
+            "Text": "3. bir kişi ile çocuğunuzu cinsel birlikteliğe zorluyor mu?"
+        },
+        {
+            "Id": "107",
+            "Text": "Çocuğunuza fiziksel anlamda şiddet uygulayarak istemediği birisi ile evlenmeye zorluyor mu?"
+        },
+        {
+            "Id": "108",
+            "Text": "Çocuğunuzun çıplak bedenini seyrediyor mu?"
+        },
+        {
+            "Id": "109",
+            "Text": "Çocuğunuza kendi cinsel organını gösteriyor mu?"
+        },
+        {
+            "Id": "110",
+            "Text": "Çocuğunuzla cinsel konuşmalar yapıyor mu ya da cinsel içerikli materyal (video, ses kaydı) gösteriyor mu ?"
+        },
+        {
+            "Id": "111",
+            "Text": "Çocuğunuza cinsel haz amacıyla okşama ve öpme gibi davranışlarda bulunuyor mu ?"
+        },
+        {
+            "Id": "112",
+            "Text": "Çocuğunuzun bedenine dokunuyor mu ya da kendi bedenine dokunmaya zorluyor mu ?"
+        },
+        {
+            "Id": "113",
+            "Text": "Çocuğunuzu pornografik içerikli çekimlerde kullanıyor mu ?"
+        },
+        {
+            "Id": "114",
+            "Text": "Çocuğunuzun cinsel organlarına parmak ya da başka bir cisimle temas sağlıyor mu?"
+        },
+        {
+            "Id": "115",
+            "Text": "Sizi çözüm yollarımıza yönlendiriyorum."
+        },
+        {
+            "Id": "116",
+            "Text": "Cevaplarınızın olumsuz olmasına rağmen halen çocuğunuzun fiziksel şiddete uğradığınızı düşünüyor musunuz?"
+        },
+        {
+            "Id": "117",
+            "Text": "Çocuğunuzun uğramış olduğu fiziksel şiddeti kısa ve öz bir biçimde bana yazarak anlatır mısınız?"
+        },
+        {
+            "Id": "118",
+            "Text": "Çocuğunuza zarar vereceği ya da öldüreceği yönünde tehdit ediyor mu?"
+        },
+        {
+            "Id": "119",
+            "Text": "Çocuğunuzun yakınlarını ve/ veya kendine zarar vereceği yönünde tehdit ederek çocuğunuzu istemediğiniz şeyleri yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "120"
+        },
+        {
+            "Id": "121",
+            "Text": "Çocuğunuzun bulunduğunuz ortamların (ev, okul vb) etrafında çocuğunuza görünerek dolaşıp çocuğunuzun üzerinizde bir baskı oluşturuyor mu?"
+        },
+        {
+            "Id": "122",
+            "Text": "Sinirlerine hakim olamayarak çocuğunuzun gözünü korkutmak için bağırarak etrafa zarar veriyor mu? (duvara yumruk atmak, telefonu kırmak vb..)"
+        },
+        {
+            "Id": "123",
+            "Text": "Çocuğunuzu tehdit ederek kendisi veya bir üçüncü kişi ile cinsel birlikteliğe zorluyor mu?"
+        },
+        {
+            "Id": "124",
+            "Text": "Çocuğunuzu yakından veya uzaktan iletişim araçlarını kullanarak taciz ediyor mu?"
+        },
+        {
+            "Id": "125",
+            "Text": "Çocuğunuzu tehdit ederek yasal olmayan işler yaptırıyor mu? (Fuhuş, torbacılık, hırsızlık ....vb..)"
+        },
+        {
+            "Id": "126",
+            "Text": "Çocuğunuzu tehdit ederek zararlı ve bağımlılık yapıcı bir madde kullanmaya zorluyor mu ? (alkol, uyuşturucu vb.)"
+        },
+        {
+            "Id": "127",
+            "Text": "Çocuğunuza fiziksel şiddet uygulayarak kendisi ile veya istemediği bir 3. kişi ile evlenmeye zorluyor mu?"
+        },
+        {
+            "Id": "128",
+            "Text": "Sormuş olduğum sorular arasında eğer bir tane bile olumlu cevabınız yoksa tekrar soracağım soruları evet veya hayır cevapları ile cevaplandırabilir misiniz?"
+        },
+        {
+            "Id": "129",
+            "Text": "Çocuğunuza zarar verecek bir biçimde içinde bulunduğu ev, araba gibi şeyleri yakmak şeklinde tehditlerde bulunuyor mu?"
+        },
+        {
+            "Id": "130",
+            "Text": "Çocuğunuzun ailesi ve arkadaşları ile konuşmasını ve iletişim kurmasını engelliyor mu?"
+        },
+        {
+            "Id": "131",
+            "Text": "Çocuğunuzu dışarı çıktığında ona zarar vereceği şeklinde tehdit ediyor mu?"
+        },
+        {
+            "Id": "132",
+            "Text": "Çocuğunuzu ailesi ve arkadaşları ile konuştuğunda ve iletişim kurduğunda zarar vereceği şeklinde tehdit ediyor mu?"
+        },
+        {
+            "Id": "133",
+            "Text": "Çocuğunuzun yanına gelerek sözlü rahatsız edici veya cinsel içerikli söylemlerde bulunuyor mu?"
+        },
+        {
+            "Id": "134",
+            "Text": "Çocuğunuza İletişim vasıtalarını kullanarak (sms, telefon araması, sosyal medya uygulamaları vb..) sözlü veya cinsel içerikli söylemlerde bulunuyor mu?"
+        },
+        {
+            "Id": "135",
+            "Text": "Çocuğunuzu tehdit ederek istemediği birisi ile evlenmeye zorluyor mu?"
+        },
+        {
+            "Id": "136",
+            "Text": "Çocuğunuza zarar vereceği yönünde tehdit ederek ona ait özel verileri (fotoğraf, video veya sesli doküman) kendisi veya bir üçüncü kişiyle paylaşmaya zorluyor mu?"
+        },
+        {
+            "Id": "137",
+            "Text": "Çocuğunuza zarar vereceği yönünde tehdit ederek ona ait özel verileri (fotoğraf, video veya sesli doküman) sosyal medya hesabında üçüncü kişilere açık bir şekilde paylaşıyor mu yada onun paylaşmasına zorluyor mu?"
+        },
+        {
+            "Id": "138",
+            "Text": "Çocuğunuza ait ait özel verileri (fotoğraf, video veya sesli doküman) paylaşacağı yönünde tehdit ederek onu istemediği şeyleri yapmaya zorluyor mu?"
+        },
+        {
+            "Id": "139",
+            "Text": "Sizi çözüm yollarımıza yönlendiriyorum."
+        },
+        {
+            "Id": "140",
+            "Text": "Cevaplarınızın olumsuz olmasına rağmen halen çocuğunuzun psikolojik şiddete uğradığını düşünüyor musunuz?"
+        },
+        {
+            "Id": "141",
+            "Text": "Çocuğunuzun uğramış olduğu psikolojik şiddeti kısa ve öz bir biçimde bana yazarak anlatır mısınız?"
+        },
+        {
+            "Id": "142",
+            "Text": "Size fiziksel şiddeti kim uyguluyor?"
+        },
+        {
+            "Id": "143",
+            "Text": "Size hangi konuda yardımcı olmamı istiyorsanız lütfen aşağıdaki seçenlerden seçiniz?"
+        },
+        {
+            "Id": "144",
+            "Text": "Size psikolojik şiddeti kim uyguluyor?"
+        },
+        {
+            "Id": "145",
+            "Text": "Çocuğunuza fiziksel şiddeti kim uyguluyor?"
+        },
+        {
+            "Id": "146",
+            "Text": "Çocuğunuza psikolojik şiddeti kim uyguluyor?"
+        }
+    ],
+    "Cevaplar": [
+        {
+            "Id": "1",
+            "Text": "Devam Et"
+        },
+        {
+            "Id": "2",
+            "Text": "İzmir",
+            "Value": "I"
+        },
+        {
+            "Id": "3",
+            "Text": "Konya",
+            "Value": "K"
+        },
+        {
+            "Id": "4",
+            "Text": "Diğer Şehirler"
+        },
+        {
+            "Id": "5",
+            "Text": "Evet"
+        },
+        {
+            "Id": "6",
+            "Text": "Hayır"
+        },
+        {
+            "Id": "7",
+            "Text": "Blog Linki"
+        },
+        {
+            "Id": "8",
+            "Text": "Chatbox Yenile"
+        },
+        {
+            "Id": "9",
+            "Text": "FreeText"
+        },
+        {
+            "Id": "10",
+            "Text": "Uygulama Bitiş"
+        },
+        {
+            "Id": "11",
+            "Text": "Eşim",
+            "Value": "X"
+        },
+        {
+            "Id": "12",
+            "Text": "Ailemden bir ve/veya birden fazla birey (Baba/ Abi/ Dayı/ Amca ve bu gibi diğer akrabalar)",
+            "Value": "Y"
+        },
+        {
+            "Id": "13",
+            "Text": "Üçüncü bir kişi",
+            "Value": "Z"
+        },
+        {
+            "Id": "14",
+            "Text": "Adli kolluk koruması",
+            "Value": "A"
+        },
+        {
+            "Id": "15",
+            "Text": "Dava açmak(Hukuki yardım)",
+            "Value": "B"
+        },
+        {
+            "Id": "16",
+            "Text": "Barınma, maddi ve mesleki yardım",
+            "Value": "C"
+        },
+        {
+            "Id": "17",
+            "Text": "Psikolojik, rehabilitasyon ve eğitim desteği",
+            "Value": "D"
+        },
+        {
+            "Id": "18",
+            "Text": "Devam Et",
+            "Value": "1"
+        },
+        {
+            "Id": "19",
+            "Text": "Devam Et",
+            "Value": "2"
+        },
+        {
+            "Id": "20",
+            "Text": "Devam Et",
+            "Value": "3"
+        },
+        {
+            "Id": "21",
+            "Text": "Devam Et",
+            "Value": "4"
+        },
+        {
+            "Id": "22",
+            "Text": "FreeText C.1",
+            "Value": "1"
+        },
+        {
+            "Id": "23",
+            "Text": "FT C.2",
+            "Value": "2"
+        },
+        {
+            "Id": "24",
+            "Text": "FT C.3",
+            "Value": "3"
+        },
+        {
+            "Id": "25",
+            "Text": "Ft C.4",
+            "Value": "4"
+        }
+    ],
+    "S_C": [
+        {
+            "Id": "1",
+            "QuestionId": "1",
+            "AnswerId": "1",
+            "TargetQuestionId": "2"
+        },
+        {
+            "Id": "2",
+            "QuestionId": "2",
+            "AnswerId": "2",
+            "TargetQuestionId": "4"
+        },
+        {
+            "Id": "3",
+            "QuestionId": "2",
+            "AnswerId": "3",
+            "TargetQuestionId": "4"
+        },
+        {
+            "Id": "4",
+            "QuestionId": "2",
+            "AnswerId": "4",
+            "TargetQuestionId": "3"
+        },
+        {
+            "Id": "5",
+            "QuestionId": "4",
+            "AnswerId": "5",
+            "TargetQuestionId": "5"
+        },
+        {
+            "Id": "6",
+            "QuestionId": "4",
+            "AnswerId": "6",
+            "TargetQuestionId": "6"
+        },
+        {
+            "Id": "7",
+            "QuestionId": "6",
+            "AnswerId": "5",
+            "TargetQuestionId": "7"
+        },
+        {
+            "Id": "8",
+            "QuestionId": "6",
+            "AnswerId": "6",
+            "TargetQuestionId": "8"
+        },
+        {
+            "Id": "9",
+            "QuestionId": "8",
+            "AnswerId": "5",
+            "TargetQuestionId": "5"
+        },
+        {
+            "Id": "10",
+            "QuestionId": "8",
+            "AnswerId": "6",
+            "TargetQuestionId": "9"
+        },
+        {
+            "Id": "11",
+            "QuestionId": "9",
+            "AnswerId": "7",
+            "TargetQuestionId": "BİTİŞ"
+        },
+        {
+            "Id": "12",
+            "QuestionId": "9",
+            "AnswerId": "8",
+            "TargetQuestionId": "1"
+        },
+        {
+            "Id": "13",
+            "QuestionId": "5",
+            "AnswerId": "1",
+            "TargetQuestionId": "10"
+        },
+        {
+            "Id": "14",
+            "QuestionId": "10",
+            "AnswerId": "5",
+            "TargetQuestionId": "11"
+        },
+        {
+            "Id": "15",
+            "QuestionId": "10",
+            "AnswerId": "6",
+            "TargetQuestionId": "12"
+        },
+        {
+            "Id": "16",
+            "QuestionId": "12",
+            "AnswerId": "5",
+            "TargetQuestionId": "13"
+        },
+        {
+            "Id": "17",
+            "QuestionId": "12",
+            "AnswerId": "6",
+            "TargetQuestionId": "14"
+        },
+        {
+            "Id": "18",
+            "QuestionId": "7",
+            "AnswerId": "1",
+            "TargetQuestionId": "15"
+        },
+        {
+            "Id": "19",
+            "QuestionId": "15",
+            "AnswerId": "5",
+            "TargetQuestionId": "16"
+        },
+        {
+            "Id": "20",
+            "QuestionId": "15",
+            "AnswerId": "6",
+            "TargetQuestionId": "17"
+        },
+        {
+            "Id": "21",
+            "QuestionId": "17",
+            "AnswerId": "5",
+            "TargetQuestionId": "18"
+        },
+        {
+            "Id": "22",
+            "QuestionId": "17",
+            "AnswerId": "6",
+            "TargetQuestionId": "14"
+        },
+        {
+            "Id": "23",
+            "QuestionId": "11",
+            "AnswerId": "1",
+            "TargetQuestionId": "19"
+        },
+        {
+            "Id": "24",
+            "QuestionId": "19",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "25",
+            "QuestionId": "19",
+            "AnswerId": "6",
+            "TargetQuestionId": "20"
+        },
+        {
+            "Id": "26",
+            "QuestionId": "20",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "27",
+            "QuestionId": "20",
+            "AnswerId": "6",
+            "TargetQuestionId": "21"
+        },
+        {
+            "Id": "28",
+            "QuestionId": "21",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "29",
+            "QuestionId": "21",
+            "AnswerId": "6",
+            "TargetQuestionId": "22"
+        },
+        {
+            "Id": "30",
+            "QuestionId": "22",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "31",
+            "QuestionId": "22",
+            "AnswerId": "6",
+            "TargetQuestionId": "23"
+        },
+        {
+            "Id": "32",
+            "QuestionId": "23",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "33",
+            "QuestionId": "23",
+            "AnswerId": "6",
+            "TargetQuestionId": "24"
+        },
+        {
+            "Id": "34",
+            "QuestionId": "24",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "35",
+            "QuestionId": "24",
+            "AnswerId": "6",
+            "TargetQuestionId": "25"
+        },
+        {
+            "Id": "36",
+            "QuestionId": "25",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "37",
+            "QuestionId": "25",
+            "AnswerId": "6",
+            "TargetQuestionId": "26"
+        },
+        {
+            "Id": "38",
+            "QuestionId": "26",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "39",
+            "QuestionId": "26",
+            "AnswerId": "6",
+            "TargetQuestionId": "27"
+        },
+        {
+            "Id": "40",
+            "QuestionId": "27",
+            "AnswerId": "1",
+            "TargetQuestionId": "28"
+        },
+        {
+            "Id": "41",
+            "QuestionId": "28",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "42",
+            "QuestionId": "28",
+            "AnswerId": "6",
+            "TargetQuestionId": "29"
+        },
+        {
+            "Id": "43",
+            "QuestionId": "29",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "44",
+            "QuestionId": "29",
+            "AnswerId": "6",
+            "TargetQuestionId": "30"
+        },
+        {
+            "Id": "45",
+            "QuestionId": "30",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "46",
+            "QuestionId": "30",
+            "AnswerId": "6",
+            "TargetQuestionId": "31"
+        },
+        {
+            "Id": "47",
+            "QuestionId": "31",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "48",
+            "QuestionId": "31",
+            "AnswerId": "6",
+            "TargetQuestionId": "32"
+        },
+        {
+            "Id": "49",
+            "QuestionId": "32",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "50",
+            "QuestionId": "32",
+            "AnswerId": "6",
+            "TargetQuestionId": "33"
+        },
+        {
+            "Id": "51",
+            "QuestionId": "33",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "52",
+            "QuestionId": "33",
+            "AnswerId": "6",
+            "TargetQuestionId": "34"
+        },
+        {
+            "Id": "53",
+            "QuestionId": "34",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "54",
+            "QuestionId": "34",
+            "AnswerId": "6",
+            "TargetQuestionId": "35"
+        },
+        {
+            "Id": "55",
+            "QuestionId": "35",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "56",
+            "QuestionId": "35",
+            "AnswerId": "6",
+            "TargetQuestionId": "36"
+        },
+        {
+            "Id": "57",
+            "QuestionId": "36",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "58",
+            "QuestionId": "36",
+            "AnswerId": "6",
+            "TargetQuestionId": "37"
+        },
+        {
+            "Id": "59",
+            "QuestionId": "37",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "60",
+            "QuestionId": "37",
+            "AnswerId": "6",
+            "TargetQuestionId": "38"
+        },
+        {
+            "Id": "61",
+            "QuestionId": "38",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "62",
+            "QuestionId": "38",
+            "AnswerId": "6",
+            "TargetQuestionId": "39"
+        },
+        {
+            "Id": "63",
+            "QuestionId": "39",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "64",
+            "QuestionId": "39",
+            "AnswerId": "6",
+            "TargetQuestionId": "40"
+        },
+        {
+            "Id": "65",
+            "QuestionId": "40",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "66",
+            "QuestionId": "40",
+            "AnswerId": "6",
+            "TargetQuestionId": "41"
+        },
+        {
+            "Id": "67",
+            "QuestionId": "41",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "68",
+            "QuestionId": "41",
+            "AnswerId": "6",
+            "TargetQuestionId": "42"
+        },
+        {
+            "Id": "69",
+            "QuestionId": "42",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "70",
+            "QuestionId": "42",
+            "AnswerId": "6",
+            "TargetQuestionId": "43"
+        },
+        {
+            "Id": "71",
+            "QuestionId": "43",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "72",
+            "QuestionId": "43",
+            "AnswerId": "6",
+            "TargetQuestionId": "44"
+        },
+        {
+            "Id": "73",
+            "QuestionId": "44",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "74",
+            "QuestionId": "44",
+            "AnswerId": "6",
+            "TargetQuestionId": "45"
+        },
+        {
+            "Id": "75",
+            "QuestionId": "45",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "76",
+            "QuestionId": "45",
+            "AnswerId": "6",
+            "TargetQuestionId": "46"
+        },
+        {
+            "Id": "77",
+            "QuestionId": "46",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "78",
+            "QuestionId": "46",
+            "AnswerId": "6",
+            "TargetQuestionId": "47"
+        },
+        {
+            "Id": "79",
+            "QuestionId": "47",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "80",
+            "QuestionId": "47",
+            "AnswerId": "6",
+            "TargetQuestionId": "48"
+        },
+        {
+            "Id": "81",
+            "QuestionId": "48",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "82",
+            "QuestionId": "48",
+            "AnswerId": "6",
+            "TargetQuestionId": "49"
+        },
+        {
+            "Id": "83",
+            "QuestionId": "49",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "84",
+            "QuestionId": "49",
+            "AnswerId": "6",
+            "TargetQuestionId": "50"
+        },
+        {
+            "Id": "85",
+            "QuestionId": "50",
+            "AnswerId": "5",
+            "TargetQuestionId": "51"
+        },
+        {
+            "Id": "86",
+            "QuestionId": "50",
+            "AnswerId": "6",
+            "TargetQuestionId": "52"
+        },
+        {
+            "Id": "87",
+            "QuestionId": "52",
+            "AnswerId": "5",
+            "TargetQuestionId": "53"
+        },
+        {
+            "Id": "88",
+            "QuestionId": "52",
+            "AnswerId": "6",
+            "TargetQuestionId": "BİTİŞ"
+        },
+        {
+            "Id": "90",
+            "QuestionId": "13",
+            "AnswerId": "1",
+            "TargetQuestionId": "54"
+        },
+        {
+            "Id": "91",
+            "QuestionId": "54",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "92",
+            "QuestionId": "54",
+            "AnswerId": "6",
+            "TargetQuestionId": "55"
+        },
+        {
+            "Id": "93",
+            "QuestionId": "55",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "94",
+            "QuestionId": "55",
+            "AnswerId": "6",
+            "TargetQuestionId": "56"
+        },
+        {
+            "Id": "95",
+            "QuestionId": "56",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "96",
+            "QuestionId": "56",
+            "AnswerId": "6",
+            "TargetQuestionId": "57"
+        },
+        {
+            "Id": "97",
+            "QuestionId": "57",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "98",
+            "QuestionId": "57",
+            "AnswerId": "6",
+            "TargetQuestionId": "58"
+        },
+        {
+            "Id": "99",
+            "QuestionId": "58",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "100",
+            "QuestionId": "58",
+            "AnswerId": "6",
+            "TargetQuestionId": "59"
+        },
+        {
+            "Id": "101",
+            "QuestionId": "59",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "102",
+            "QuestionId": "59",
+            "AnswerId": "6",
+            "TargetQuestionId": "60"
+        },
+        {
+            "Id": "103",
+            "QuestionId": "60",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "104",
+            "QuestionId": "60",
+            "AnswerId": "6",
+            "TargetQuestionId": "61"
+        },
+        {
+            "Id": "105",
+            "QuestionId": "61",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "106",
+            "QuestionId": "61",
+            "AnswerId": "6",
+            "TargetQuestionId": "62"
+        },
+        {
+            "Id": "107",
+            "QuestionId": "62",
+            "AnswerId": "1",
+            "TargetQuestionId": "63"
+        },
+        {
+            "Id": "108",
+            "QuestionId": "63",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "109",
+            "QuestionId": "63",
+            "AnswerId": "6",
+            "TargetQuestionId": "64"
+        },
+        {
+            "Id": "110",
+            "QuestionId": "64",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "111",
+            "QuestionId": "64",
+            "AnswerId": "6",
+            "TargetQuestionId": "65"
+        },
+        {
+            "Id": "112",
+            "QuestionId": "65",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "113",
+            "QuestionId": "65",
+            "AnswerId": "6",
+            "TargetQuestionId": "66"
+        },
+        {
+            "Id": "114",
+            "QuestionId": "66",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "115",
+            "QuestionId": "66",
+            "AnswerId": "6",
+            "TargetQuestionId": "67"
+        },
+        {
+            "Id": "116",
+            "QuestionId": "67",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "117",
+            "QuestionId": "67",
+            "AnswerId": "6",
+            "TargetQuestionId": "68"
+        },
+        {
+            "Id": "118",
+            "QuestionId": "68",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "119",
+            "QuestionId": "68",
+            "AnswerId": "6",
+            "TargetQuestionId": "69"
+        },
+        {
+            "Id": "120",
+            "QuestionId": "69",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "121",
+            "QuestionId": "69",
+            "AnswerId": "6",
+            "TargetQuestionId": "70"
+        },
+        {
+            "Id": "122",
+            "QuestionId": "70",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "123",
+            "QuestionId": "70",
+            "AnswerId": "6",
+            "TargetQuestionId": "71"
+        },
+        {
+            "Id": "124",
+            "QuestionId": "71",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "125",
+            "QuestionId": "71",
+            "AnswerId": "6",
+            "TargetQuestionId": "72"
+        },
+        {
+            "Id": "126",
+            "QuestionId": "72",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "127",
+            "QuestionId": "72",
+            "AnswerId": "6",
+            "TargetQuestionId": "73"
+        },
+        {
+            "Id": "128",
+            "QuestionId": "73",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "129",
+            "QuestionId": "73",
+            "AnswerId": "6",
+            "TargetQuestionId": "74"
+        },
+        {
+            "Id": "130",
+            "QuestionId": "74",
+            "AnswerId": "5",
+            "TargetQuestionId": "75"
+        },
+        {
+            "Id": "131",
+            "QuestionId": "74",
+            "AnswerId": "6",
+            "TargetQuestionId": "76"
+        },
+        {
+            "Id": "132",
+            "QuestionId": "76",
+            "AnswerId": "5",
+            "TargetQuestionId": "77"
+        },
+        {
+            "Id": "133",
+            "QuestionId": "76",
+            "AnswerId": "6",
+            "TargetQuestionId": "BİTİŞ"
+        },
+        {
+            "Id": "135",
+            "QuestionId": "16",
+            "AnswerId": "1",
+            "TargetQuestionId": "78"
+        },
+        {
+            "Id": "136",
+            "QuestionId": "78",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "137",
+            "QuestionId": "78",
+            "AnswerId": "6",
+            "TargetQuestionId": "79"
+        },
+        {
+            "Id": "138",
+            "QuestionId": "79",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "139",
+            "QuestionId": "79",
+            "AnswerId": "6",
+            "TargetQuestionId": "80"
+        },
+        {
+            "Id": "140",
+            "QuestionId": "80",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "141",
+            "QuestionId": "80",
+            "AnswerId": "6",
+            "TargetQuestionId": "81"
+        },
+        {
+            "Id": "142",
+            "QuestionId": "81",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "143",
+            "QuestionId": "81",
+            "AnswerId": "6",
+            "TargetQuestionId": "82"
+        },
+        {
+            "Id": "144",
+            "QuestionId": "82",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "145",
+            "QuestionId": "82",
+            "AnswerId": "6",
+            "TargetQuestionId": "83"
+        },
+        {
+            "Id": "146",
+            "QuestionId": "83",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "147",
+            "QuestionId": "83",
+            "AnswerId": "6",
+            "TargetQuestionId": "84"
+        },
+        {
+            "Id": "148",
+            "QuestionId": "84",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "149",
+            "QuestionId": "84",
+            "AnswerId": "6",
+            "TargetQuestionId": "85"
+        },
+        {
+            "Id": "150",
+            "QuestionId": "85",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "151",
+            "QuestionId": "85",
+            "AnswerId": "6",
+            "TargetQuestionId": "86"
+        },
+        {
+            "Id": "152",
+            "QuestionId": "86",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "153",
+            "QuestionId": "86",
+            "AnswerId": "6",
+            "TargetQuestionId": "87"
+        },
+        {
+            "Id": "154",
+            "QuestionId": "87",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "155",
+            "QuestionId": "87",
+            "AnswerId": "6",
+            "TargetQuestionId": "88"
+        },
+        {
+            "Id": "156",
+            "QuestionId": "88",
+            "AnswerId": "1",
+            "TargetQuestionId": "89"
+        },
+        {
+            "Id": "157",
+            "QuestionId": "89",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "158",
+            "QuestionId": "89",
+            "AnswerId": "6",
+            "TargetQuestionId": "90"
+        },
+        {
+            "Id": "159",
+            "QuestionId": "90",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "160",
+            "QuestionId": "90",
+            "AnswerId": "6",
+            "TargetQuestionId": "91"
+        },
+        {
+            "Id": "161",
+            "QuestionId": "91",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "162",
+            "QuestionId": "91",
+            "AnswerId": "6",
+            "TargetQuestionId": "92"
+        },
+        {
+            "Id": "163",
+            "QuestionId": "92",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "164",
+            "QuestionId": "92",
+            "AnswerId": "6",
+            "TargetQuestionId": "93"
+        },
+        {
+            "Id": "165",
+            "QuestionId": "93",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "166",
+            "QuestionId": "93",
+            "AnswerId": "6",
+            "TargetQuestionId": "94"
+        },
+        {
+            "Id": "167",
+            "QuestionId": "94",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "168",
+            "QuestionId": "94",
+            "AnswerId": "6",
+            "TargetQuestionId": "95"
+        },
+        {
+            "Id": "169",
+            "QuestionId": "95",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "170",
+            "QuestionId": "95",
+            "AnswerId": "6",
+            "TargetQuestionId": "96"
+        },
+        {
+            "Id": "171",
+            "QuestionId": "96",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "172",
+            "QuestionId": "96",
+            "AnswerId": "6",
+            "TargetQuestionId": "97"
+        },
+        {
+            "Id": "173",
+            "QuestionId": "97",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "174",
+            "QuestionId": "97",
+            "AnswerId": "6",
+            "TargetQuestionId": "98"
+        },
+        {
+            "Id": "175",
+            "QuestionId": "98",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "176",
+            "QuestionId": "98",
+            "AnswerId": "6",
+            "TargetQuestionId": "99"
+        },
+        {
+            "Id": "177",
+            "QuestionId": "99",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "178",
+            "QuestionId": "99",
+            "AnswerId": "6",
+            "TargetQuestionId": "100"
+        },
+        {
+            "Id": "179",
+            "QuestionId": "100",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "180",
+            "QuestionId": "100",
+            "AnswerId": "6",
+            "TargetQuestionId": "101"
+        },
+        {
+            "Id": "181",
+            "QuestionId": "101",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "182",
+            "QuestionId": "101",
+            "AnswerId": "6",
+            "TargetQuestionId": "102"
+        },
+        {
+            "Id": "183",
+            "QuestionId": "102",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "184",
+            "QuestionId": "102",
+            "AnswerId": "6",
+            "TargetQuestionId": "103"
+        },
+        {
+            "Id": "185",
+            "QuestionId": "103",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "186",
+            "QuestionId": "103",
+            "AnswerId": "6",
+            "TargetQuestionId": "104"
+        },
+        {
+            "Id": "187",
+            "QuestionId": "104",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "188",
+            "QuestionId": "104",
+            "AnswerId": "6",
+            "TargetQuestionId": "105"
+        },
+        {
+            "Id": "189",
+            "QuestionId": "105",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "190",
+            "QuestionId": "105",
+            "AnswerId": "6",
+            "TargetQuestionId": "106"
+        },
+        {
+            "Id": "191",
+            "QuestionId": "106",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "192",
+            "QuestionId": "106",
+            "AnswerId": "6",
+            "TargetQuestionId": "107"
+        },
+        {
+            "Id": "193",
+            "QuestionId": "107",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "194",
+            "QuestionId": "107",
+            "AnswerId": "6",
+            "TargetQuestionId": "108"
+        },
+        {
+            "Id": "195",
+            "QuestionId": "108",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "196",
+            "QuestionId": "108",
+            "AnswerId": "6",
+            "TargetQuestionId": "109"
+        },
+        {
+            "Id": "197",
+            "QuestionId": "109",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "198",
+            "QuestionId": "109",
+            "AnswerId": "6",
+            "TargetQuestionId": "110"
+        },
+        {
+            "Id": "199",
+            "QuestionId": "110",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "200",
+            "QuestionId": "110",
+            "AnswerId": "6",
+            "TargetQuestionId": "111"
+        },
+        {
+            "Id": "201",
+            "QuestionId": "111",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "202",
+            "QuestionId": "111",
+            "AnswerId": "6",
+            "TargetQuestionId": "112"
+        },
+        {
+            "Id": "203",
+            "QuestionId": "112",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "204",
+            "QuestionId": "112",
+            "AnswerId": "6",
+            "TargetQuestionId": "113"
+        },
+        {
+            "Id": "205",
+            "QuestionId": "113",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "206",
+            "QuestionId": "113",
+            "AnswerId": "6",
+            "TargetQuestionId": "114"
+        },
+        {
+            "Id": "207",
+            "QuestionId": "114",
+            "AnswerId": "5",
+            "TargetQuestionId": "115"
+        },
+        {
+            "Id": "208",
+            "QuestionId": "114",
+            "AnswerId": "6",
+            "TargetQuestionId": "116"
+        },
+        {
+            "Id": "209",
+            "QuestionId": "116",
+            "AnswerId": "5",
+            "TargetQuestionId": "117"
+        },
+        {
+            "Id": "210",
+            "QuestionId": "116",
+            "AnswerId": "6",
+            "TargetQuestionId": "BİTİŞ"
+        },
+        {
+            "Id": "212",
+            "QuestionId": "18",
+            "AnswerId": "1",
+            "TargetQuestionId": "118"
+        },
+        {
+            "Id": "213",
+            "QuestionId": "118",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "214",
+            "QuestionId": "118",
+            "AnswerId": "6",
+            "TargetQuestionId": "119"
+        },
+        {
+            "Id": "215",
+            "QuestionId": "119",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "216",
+            "QuestionId": "119",
+            "AnswerId": "6",
+            "TargetQuestionId": "121"
+        },
+        {
+            "Id": "217",
+            "QuestionId": "121",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "218",
+            "QuestionId": "121",
+            "AnswerId": "6",
+            "TargetQuestionId": "122"
+        },
+        {
+            "Id": "219",
+            "QuestionId": "122",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "220",
+            "QuestionId": "122",
+            "AnswerId": "6",
+            "TargetQuestionId": "123"
+        },
+        {
+            "Id": "221",
+            "QuestionId": "123",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "222",
+            "QuestionId": "123",
+            "AnswerId": "6",
+            "TargetQuestionId": "124"
+        },
+        {
+            "Id": "223",
+            "QuestionId": "124",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "224",
+            "QuestionId": "124",
+            "AnswerId": "6",
+            "TargetQuestionId": "125"
+        },
+        {
+            "Id": "225",
+            "QuestionId": "125",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "226",
+            "QuestionId": "125",
+            "AnswerId": "6",
+            "TargetQuestionId": "126"
+        },
+        {
+            "Id": "227",
+            "QuestionId": "126",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "228",
+            "QuestionId": "126",
+            "AnswerId": "6",
+            "TargetQuestionId": "127"
+        },
+        {
+            "Id": "229",
+            "QuestionId": "127",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "230",
+            "QuestionId": "127",
+            "AnswerId": "6",
+            "TargetQuestionId": "128"
+        },
+        {
+            "Id": "231",
+            "QuestionId": "128",
+            "AnswerId": "1",
+            "TargetQuestionId": "129"
+        },
+        {
+            "Id": "232",
+            "QuestionId": "129",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "233",
+            "QuestionId": "129",
+            "AnswerId": "6",
+            "TargetQuestionId": "130"
+        },
+        {
+            "Id": "234",
+            "QuestionId": "130",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "235",
+            "QuestionId": "130",
+            "AnswerId": "6",
+            "TargetQuestionId": "131"
+        },
+        {
+            "Id": "236",
+            "QuestionId": "131",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "237",
+            "QuestionId": "131",
+            "AnswerId": "6",
+            "TargetQuestionId": "132"
+        },
+        {
+            "Id": "238",
+            "QuestionId": "132",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "239",
+            "QuestionId": "132",
+            "AnswerId": "6",
+            "TargetQuestionId": "133"
+        },
+        {
+            "Id": "240",
+            "QuestionId": "133",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "241",
+            "QuestionId": "133",
+            "AnswerId": "6",
+            "TargetQuestionId": "134"
+        },
+        {
+            "Id": "242",
+            "QuestionId": "134",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "243",
+            "QuestionId": "134",
+            "AnswerId": "6",
+            "TargetQuestionId": "135"
+        },
+        {
+            "Id": "244",
+            "QuestionId": "135",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "245",
+            "QuestionId": "135",
+            "AnswerId": "6",
+            "TargetQuestionId": "136"
+        },
+        {
+            "Id": "246",
+            "QuestionId": "136",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "247",
+            "QuestionId": "136",
+            "AnswerId": "6",
+            "TargetQuestionId": "137"
+        },
+        {
+            "Id": "248",
+            "QuestionId": "137",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "249",
+            "QuestionId": "137",
+            "AnswerId": "6",
+            "TargetQuestionId": "138"
+        },
+        {
+            "Id": "250",
+            "QuestionId": "138",
+            "AnswerId": "5",
+            "TargetQuestionId": "139"
+        },
+        {
+            "Id": "251",
+            "QuestionId": "138",
+            "AnswerId": "6",
+            "TargetQuestionId": "140"
+        },
+        {
+            "Id": "252",
+            "QuestionId": "140",
+            "AnswerId": "5",
+            "TargetQuestionId": "141"
+        },
+        {
+            "Id": "253",
+            "QuestionId": "140",
+            "AnswerId": "6",
+            "TargetQuestionId": "BİTİŞ"
+        },
+        {
+            "Id": "255",
+            "QuestionId": "142",
+            "AnswerId": "11",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "256",
+            "QuestionId": "142",
+            "AnswerId": "12",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "257",
+            "QuestionId": "142",
+            "AnswerId": "13",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "258",
+            "QuestionId": "143",
+            "AnswerId": "14",
+            "TargetQuestionId": "Value"
+        },
+        {
+            "Id": "259",
+            "QuestionId": "143",
+            "AnswerId": "15",
+            "TargetQuestionId": "Value"
+        },
+        {
+            "Id": "260",
+            "QuestionId": "143",
+            "AnswerId": "16",
+            "TargetQuestionId": "Value"
+        },
+        {
+            "Id": "261",
+            "QuestionId": "143",
+            "AnswerId": "17",
+            "TargetQuestionId": "Value"
+        },
+        {
+            "Id": "262",
+            "QuestionId": "144",
+            "AnswerId": "11",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "263",
+            "QuestionId": "144",
+            "AnswerId": "12",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "264",
+            "QuestionId": "144",
+            "AnswerId": "13",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "265",
+            "QuestionId": "51",
+            "AnswerId": "18",
+            "TargetQuestionId": "142"
+        },
+        {
+            "Id": "266",
+            "QuestionId": "75",
+            "AnswerId": "19",
+            "TargetQuestionId": "144"
+        },
+        {
+            "Id": "267",
+            "QuestionId": "115",
+            "AnswerId": "20",
+            "TargetQuestionId": "145"
+        },
+        {
+            "Id": "268",
+            "QuestionId": "139",
+            "AnswerId": "21",
+            "TargetQuestionId": "146"
+        },
+        {
+            "Id": "269",
+            "QuestionId": "144",
+            "AnswerId": "11",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "270",
+            "QuestionId": "144",
+            "AnswerId": "12",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "271",
+            "QuestionId": "144",
+            "AnswerId": "13",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "272",
+            "QuestionId": "145",
+            "AnswerId": "11",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "273",
+            "QuestionId": "145",
+            "AnswerId": "12",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "274",
+            "QuestionId": "145",
+            "AnswerId": "13",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "275",
+            "QuestionId": "146",
+            "AnswerId": "11",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "276",
+            "QuestionId": "146",
+            "AnswerId": "12",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "277",
+            "QuestionId": "146",
+            "AnswerId": "13",
+            "TargetQuestionId": "143"
+        },
+        {
+            "Id": "278",
+            "QuestionId": "53",
+            "AnswerId": "22",
+            "TargetQuestionId": "142"
+        },
+        {
+            "Id": "279",
+            "QuestionId": "77",
+            "AnswerId": "23",
+            "TargetQuestionId": "144"
+        },
+        {
+            "Id": "280",
+            "QuestionId": "117",
+            "AnswerId": "24",
+            "TargetQuestionId": "145"
+        },
+        {
+            "Id": "281",
+            "QuestionId": "141",
+            "AnswerId": "25",
+            "TargetQuestionId": "146"
+        }
+    ]
+}
