@@ -15,7 +15,10 @@ import { ContactComponent } from './contact/contact.component';
 import { BlogComponent } from './blog/blog.component';
 import { BlogContentComponent } from './blog/blog-content/blog-content.component';
 import { PartnerComponent } from './partner/partner.component';
-
+import { PrivacyComponent } from './privacy/privacy.component';
+import { CookieComponent } from './cookie/cookie.component';
+import {MatSnackBarModule} from '@angular/material/snack-bar';
+import { CookieInfoComponent } from './components/cookie-info/cookie-info.component';
 
 @NgModule({
   declarations: [
@@ -28,14 +31,18 @@ import { PartnerComponent } from './partner/partner.component';
     ContactComponent,
     BlogComponent,
     BlogContentComponent,
-    PartnerComponent
+    PartnerComponent,
+    PrivacyComponent,
+    CookieComponent,
+    CookieInfoComponent
   ],
   imports: [
     CommonModule,
     PageRoutingModule,
     ChatModule,
     MatDialogModule,
-    MatIconModule
+    MatIconModule,
+    MatSnackBarModule
   ]
 })
 export class PageModule { }

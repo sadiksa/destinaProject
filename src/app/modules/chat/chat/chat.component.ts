@@ -313,5 +313,11 @@ export class ChatComponent implements OnInit {
       }
     });
   }
+  refreshChat() {
+    this.chat = []
+    this.chat.push(this.db.getChatModelByQuestionId("1"))
+    this.blogAndRefreshOpen$.next(false)
+
+  }
 
 }

@@ -4,10 +4,12 @@ import { AboutComponent } from './about/about.component';
 import { BlogContentComponent } from './blog/blog-content/blog-content.component';
 import { BlogComponent } from './blog/blog.component';
 import { ContactComponent } from './contact/contact.component';
+import { CookieComponent } from './cookie/cookie.component';
 import { CrewComponent } from './crew/crew.component';
 import { HomeComponent } from './home/home.component';
 import { PageComponent } from './page.component';
 import { PartnerComponent } from './partner/partner.component';
+import { PrivacyComponent } from './privacy/privacy.component';
 
 const routes: Routes = [
   {
@@ -42,6 +44,14 @@ const routes: Routes = [
       {
         path: 'partners',
         component: PartnerComponent
+      },
+      {
+        path: 'privacy',
+        component: PrivacyComponent
+      },
+      {
+        path: 'cookie',
+        component: CookieComponent
       }
     ]
   }
