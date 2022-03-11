@@ -150,7 +150,7 @@ export const crew: ICrewGroup[] = [
         ]
     },
     {
-        label: "Medya ve Pazarlama Takımı",
+        label: "Medya ve Tanıtım Takımı",
         crew: [
             {
                 name: "Ezginaz ÇALIŞIR",
@@ -204,7 +204,7 @@ export const crew: ICrewGroup[] = [
         ]
     },
     {
-        label: "Hakla İlişkiler Takımı",
+        label: "İletişim ve Pazarlama Takımı",
         crew: [
             {
                 name: "Sena GÜLLÜ ",
